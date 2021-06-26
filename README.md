@@ -5,7 +5,7 @@
 
 
 - 📍 I’m from Russia (Omsk)
-+ 💻 Junior Frontend-developer,17 years old
++ 💻 Junior Frontend-developer,18 years old
 -—
 ### 🤝 To contact me
 [![Flutter](https://img.shields.io/badge/-Telegram-090909?style=flat&logo=telegram)](https://t.me/zaharWeb)
